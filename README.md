@@ -1,2 +1,2 @@
 # mobile_computing
-Mobile Computing
+Mobile Computing Assignments
