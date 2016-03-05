@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CSE535_Assignment_1</string>
+    <string name="pname">PatientName</string>
+    <string name="pid">Patient ID</string>
+    <string name="page">Patient Age</string>
+    <string name="run_button">RUN</string>
+    <string name="stop_button">STOP</string>
+</resources>
