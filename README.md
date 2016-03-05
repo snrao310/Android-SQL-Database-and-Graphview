@@ -3,6 +3,7 @@
 Mobile Computing Assignments
 
 Assignment 1:
+
 1. Our implementation of the UI uses Android SQLite database in order to populate data of patients. 
 2. Validates if a user has entered details correctly or not.
  
