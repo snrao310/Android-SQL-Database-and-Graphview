@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

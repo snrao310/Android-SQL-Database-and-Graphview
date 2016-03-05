@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    }
+]

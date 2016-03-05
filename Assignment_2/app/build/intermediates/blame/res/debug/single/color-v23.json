@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

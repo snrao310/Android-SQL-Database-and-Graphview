@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_462a2c9b7b4c6eb6ea55b9cc74f7706c5ec3b155.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_1d7cc57d6f4e1ef93e50cf537ab24deaf260561f.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_db755d9d381f0d8329979f5282486a7cb6c1f0f2.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_db34b3935370c4e341828fdefb8b7b3e22056030.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_f6f89bd969cd41d9036e19b25045ca5549ad07af.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/sureshgururajan/Documents/ASU_Spring_2016/Mobile_Comp/Assignments/mobile_computing/Assignment_1/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_b70a2ad393f3e8718a72d9d330a59112ae32ffe6.jar" />
+    </item>
+    <item
+        jar="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_b62d5c72f77098f955c2c4363f7baa2c309ece37.jar" />
+    </item>
+
+</items>
