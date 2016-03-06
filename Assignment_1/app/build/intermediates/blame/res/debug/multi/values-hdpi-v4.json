@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,33 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/C:\\Users\\Suresh\\Documents\\GitHub\\MC_Assignment_1\\Activity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/sureshgururajan/Documents/Personal_Workspace/mobile_computing/Assignment_1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-hdpi/values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

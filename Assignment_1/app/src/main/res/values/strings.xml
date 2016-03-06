@@ -5,4 +5,6 @@
     <string name="page">Patient Age</string>
     <string name="run_button">RUN</string>
     <string name="stop_button">STOP</string>
+    <string name="title_activity_main0">Main0Activity</string>
+    <string name="enter_but">ENTER</string>
 </resources>
